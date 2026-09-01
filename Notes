@@ -1,0 +1,12 @@
+Starter Code:
+- Input: is from tests (no typing from the console / file)
+- TODO: FormatSearch behavior (search, next, previous, onCellFormatChanged) 
+
+How to run?
+- install JDK 21, Maven
+- from format-search-challenge/, run either:
+    mvn clean test (build + test phase)
+    mvn clean compile (just compile)
+
+Design Pattern:
+- Builder (FormatQuery)
